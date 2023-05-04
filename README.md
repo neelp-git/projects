@@ -7,7 +7,7 @@
 
 ## Blog posts
 - [Working with Query Result Streams](https://developer.aerospike.com/blog/query-streams), Aerospike Developer Blog, March 28, 2023
-[Processing Large Data Sets in Fine-Grained Parallel Streams](https://medium.com/aerospike-developer-blog/processing-large-data-sets-in-fine-grained-parallel-streams-842c160feb9d?source=your_stories_page-------------------------------------), Medium, Jan 3, 2023
+- [Processing Large Data Sets in Fine-Grained Parallel Streams](https://medium.com/aerospike-developer-blog/processing-large-data-sets-in-fine-grained-parallel-streams-842c160feb9d?source=your_stories_page-------------------------------------), Medium, Jan 3, 2023
 - [Of Queries and Indexes](https://medium.com/aerospike-developer-blog/of-queries-and-indexes-882b1c3579a8?source=your_stories_page-------------------------------------), Medium, Oct 13, 2022
 - [Building Large-Scale Real-Time JSON Applications](https://medium.com/aerospike-developer-blog/building-large-scale-real-time-json-applications-8f5e7cb94fc6?source=your_stories_page-------------------------------------), Medium, Sep 13, 2022
 - [Query JSON Documents Faster (and More) with New CDT Indexing](https://medium.com/aerospike-developer-blog/query-json-documents-faster-and-more-with-new-cdt-indexing-74f7174eb22b?source=your_stories_page-------------------------------------), Medium, Sep 13, 
@@ -58,10 +58,9 @@ SQL Operations
   - [Feature Store - Model Training (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/feature-store-model-training.ipynb)
   - [Feature Store - Model Serving (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/feature-store-model-training.ipynb)
 
-## Conferences and meetups
+## Conference sessions
 - [Multi-Site Clusters for Strong Consistency and Resiliency](https://www.youtube.com/watch?v=-DcAZcnlWDY&list=PLGo1-Ya-AEQD7g9hmXy4eYKsG5PtZPkIT&index=1)
 - [Developing for strong consistency](https://www.youtube.com/watch?v=-DcAZcnlWDY&list=PLGo1-Ya-AEQD7g9hmXy4eYKsG5PtZPkIT&index=1)
-- PostgresSQL Chicago Meetup, Berlin Meetup, …
 
 ## Newsletter
 [Aerospike Standup, Developer Newsletter](https://developer.aerospike.com/blog/vol-56)

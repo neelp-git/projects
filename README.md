@@ -44,10 +44,10 @@
   - [Query and UDFs (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/query_udf.ipynb)
   - [CDT Indexing (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/query_udf.ipynb)
   - [Parallel Processing Queries (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/query_udf.ipynb)
-  - [Processing Result Stream (Java)][(https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/query_streams.ipynb)
+  - [Processing Result Stream (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/query_streams.ipynb)
 - JSON Handling
   - [JSON Document API (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/query_streams.ipynb)
-SQL Operations
+- SQL Operations
   - [SQL SELECT (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/sql_select.ipynb)
   - [CREATE, UPDATE, DELETE (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/sql_update.ipynb)
   - [Aggregates - Part 1 (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/java/sql_aggregates_1.ipynb)

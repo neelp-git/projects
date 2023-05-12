@@ -11,6 +11,7 @@
 
 ## Blog posts
 - [Working with Query Result Streams](https://developer.aerospike.com/blog/query-streams), Aerospike Developer Blog, March 28, 2023
+- [Parallelism with Fine-Grained Streams (Part 2)](https://developer.aerospike.com/blog/parallel-streams-2), Aerospike Developer Blog, January 9, 2023.
 - [Processing Large Data Sets in Fine-Grained Parallel Streams](https://medium.com/aerospike-developer-blog/processing-large-data-sets-in-fine-grained-parallel-streams-842c160feb9d?source=your_stories_page-------------------------------------), Medium, Jan 3, 2023
 - [Of Queries and Indexes](https://medium.com/aerospike-developer-blog/of-queries-and-indexes-882b1c3579a8?source=your_stories_page-------------------------------------), Medium, Oct 13, 2022
 - [Building Large-Scale Real-Time JSON Applications](https://medium.com/aerospike-developer-blog/building-large-scale-real-time-json-applications-8f5e7cb94fc6?source=your_stories_page-------------------------------------), Medium, Sep 13, 2022

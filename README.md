@@ -10,6 +10,9 @@
 - [Parallelism with Fine-Grained Streams (Part 2)](https://thenewstack.io/building-large-scale-real-time-json-applications/)(, Medium, Jan 17, 2023
 
 ## Blog posts
+- [Mixing Similarity Search](https://medium.com/misc-posts/mixing-search-similarity-ceafe7253c47), Notes and Points Blog, June 27, 2023
+- [An Experiment with Similarity Search and a Vector Database — Part 2](https://medium.com/misc-posts/an-experiment-with-similarity-search-and-a-vector-database-part-2-7e82dbdbb7cd), Notes and Points Blog, June 21, 2023
+- [An Experiment with Similarity Search and Embeddings](https://medium.com/misc-posts/an-experiment-with-similarity-search-and-embeddings-6b015a8826fe), Notes and Points Blog, June 12, 2023
 - [Working with Query Result Streams](https://developer.aerospike.com/blog/query-streams), Aerospike Developer Blog, March 28, 2023
 - [Parallelism with Fine-Grained Streams (Part 2)](https://developer.aerospike.com/blog/parallel-streams-2), Aerospike Developer Blog, January 9, 2023.
 - [Processing Large Data Sets in Fine-Grained Parallel Streams](https://medium.com/aerospike-developer-blog/processing-large-data-sets-in-fine-grained-parallel-streams-842c160feb9d?source=your_stories_page-------------------------------------), Medium, Jan 3, 2023
@@ -28,7 +31,10 @@
 - [Developers: Understanding Aerospike Transactions](https://medium.com/aerospike-developer-blog/developers-understanding-aerospike-transactions-1c0ad5cfc357?source=your_stories_page-------------------------------------), Medium, Jan 15, 2020
 
 ## Interactive Tutorials
-- Introductory
+- Embeddings, similarity search, and vector databases
+  - [An Experiment with Similarity Search and Embeddings](https://github.com/neelp-git/embeddings-similarity/blob/main/similarity.ipynb)
+  - [An Experiment with Embeddings, Vector Database, and Similarity Metrics (Part 2)](https://github.com/neelp-git/embeddings-similarity/blob/main/similarity2.ipynb)
+-  Introductory
   - [Notebook tips (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/python/readme_tips.ipynb)
   - [Hello, World! (Java)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/python/readme_tips.ipynb)
   - [Hello, World! (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/python/hello_world.ipynb)

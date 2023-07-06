@@ -10,7 +10,8 @@
 - [Parallelism with Fine-Grained Streams (Part 2)](https://thenewstack.io/building-large-scale-real-time-json-applications/)(, Medium, Jan 17, 2023
 
 ## Blog posts
-- [Mixing Similarity Search](https://medium.com/misc-posts/mixing-search-similarity-ceafe7253c47), Notes and Points Blog, June 27, 2023
+- [Augmenting LLM Applications with Database Access](https://medium.com/misc-posts/augmenting-llm-applications-with-database-access-806d5ee6446c), Notes and Points Blog, July 5, 2023
+- [Adding Similarity Search](https://medium.com/misc-posts/mixing-search-similarity-ceafe7253c47), Notes and Points Blog, June 27, 2023
 - [An Experiment with Similarity Search and a Vector Database — Part 2](https://medium.com/misc-posts/an-experiment-with-similarity-search-and-a-vector-database-part-2-7e82dbdbb7cd), Notes and Points Blog, June 21, 2023
 - [An Experiment with Similarity Search and Embeddings](https://medium.com/misc-posts/an-experiment-with-similarity-search-and-embeddings-6b015a8826fe), Notes and Points Blog, June 12, 2023
 - [Working with Query Result Streams](https://developer.aerospike.com/blog/query-streams), Aerospike Developer Blog, March 28, 2023

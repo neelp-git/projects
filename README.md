@@ -2,7 +2,7 @@
 - [neelp-git](https://github.com/neelp-git)
 - [atgh](https://github.com/atgh)
 
-## Courses
+## Recent courses
 - Generative AI with Large Language Models (Coursera)
 - Natural Language Processing. Artificial Intelligence Nanodegree Program (Udacity)
 - Other Coursera courses: Neural Networks and Deep Learning | Machine Learning | Big Data and Machine Learning | Big Data Analysis with Scala and Spark | 
@@ -10,6 +10,7 @@
   Structuring Machine Learning Projects | Building Data Science Teams |  Scalable Data Science. 
 
 ## Blog posts
+- [Thoughts from a Generative AI Course](https://medium.com/misc-posts/thoughts-from-a-generative-ai-course-312209bc24c), Notes and Points Blog, July 11, 2023
 - [Augmenting LLM Applications with Database Access](https://medium.com/misc-posts/augmenting-llm-applications-with-database-access-806d5ee6446c), Notes and Points Blog, July 5, 2023
 - [Adding Similarity Search](https://medium.com/misc-posts/mixing-search-similarity-ceafe7253c47), Notes and Points Blog, June 27, 2023
 - [An Experiment with Similarity Search and a Vector Database — Part 2](https://medium.com/misc-posts/an-experiment-with-similarity-search-and-a-vector-database-part-2-7e82dbdbb7cd), Notes and Points Blog, June 21, 2023
@@ -31,7 +32,7 @@
 - [Microservices with Aerospike](https://medium.com/aerospike-developer-blog/resolving-uncertain-transactions-in-aerospike-49e2a8d51245?source=your_stories_page-------------------------------------), Medium, Feb 26, 2020
 - [Developers: Understanding Aerospike Transactions](https://medium.com/aerospike-developer-blog/developers-understanding-aerospike-transactions-1c0ad5cfc357?source=your_stories_page-------------------------------------), Medium, Jan 15, 2020
 
-## Interactive Tutorials
+## Use cases, tutorials, experiments
 - Embeddings, similarity search, and vector databases
   - [An Experiment with Similarity Search and Embeddings](https://github.com/neelp-git/embeddings-similarity/blob/main/similarity.ipynb)
   - [An Experiment with Embeddings, Vector Database, and Similarity Metrics (Part 2)](https://github.com/neelp-git/embeddings-similarity/blob/main/similarity2.ipynb)

@@ -2,6 +2,13 @@
 - [neelp-git](https://github.com/neelp-git)
 - [atgh](https://github.com/atgh)
 
+## Courses
+- Generative AI with Large Language Models (Coursera)
+- Natural Language Processing. Artificial Intelligence Nanodegree Program (Udacity)
+- Other Coursera courses: Neural Networks and Deep Learning | Machine Learning | Big Data and Machine Learning | Big Data Analysis with Scala and Spark | 
+  Essential Cloud Infrastructure | Reliable Cloud Infrastructure | Building Resilient Streaming Systems | Agile Development |
+  Structuring Machine Learning Projects | Building Data Science Teams |  Scalable Data Science. 
+
 ## Blog posts
 - [Augmenting LLM Applications with Database Access](https://medium.com/misc-posts/augmenting-llm-applications-with-database-access-806d5ee6446c), Notes and Points Blog, July 5, 2023
 - [Adding Similarity Search](https://medium.com/misc-posts/mixing-search-similarity-ceafe7253c47), Notes and Points Blog, June 27, 2023

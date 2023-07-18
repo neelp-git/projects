@@ -5,8 +5,8 @@
 ## Recent courses
 - Generative AI with Large Language Models (Coursera)
 - Natural Language Processing. Artificial Intelligence Nanodegree Program (Udacity)
-- Other Coursera courses: Neural Networks and Deep Learning | Machine Learning | Big Data and Machine Learning | Big Data Analysis with Scala and Spark | 
-  Essential Cloud Infrastructure | Reliable Cloud Infrastructure | Building Resilient Streaming Systems | Agile Development |
+- Other Coursera courses: Neural Networks and Deep Learning | Deep Neural Networks with PyTorch | Machine Learning | Big Data and Machine Learning |
+  Big Data Analysis with Scala and Spark | Essential Cloud Infrastructure | Reliable Cloud Infrastructure | Building Resilient Streaming Systems | Agile Development |
   Structuring Machine Learning Projects | Building Data Science Teams |  Scalable Data Science. 
 
 ## Blog posts

@@ -3,11 +3,19 @@
 - [atgh](https://github.com/atgh)
 
 ## Recent courses
-- Generative AI with Large Language Models (Coursera)
+- Generative AI with Large Language Models (DeepLearning.AI)
+- Finetuning Large Language Models (DeepLearning.AI)
+- Deploying ML Models in Production (DeepLearning.AI)
+- Deep Neural Networks with PyTorch (IBM)
 - Natural Language Processing. Artificial Intelligence Nanodegree Program (Udacity)
-- Other Coursera courses: Neural Networks and Deep Learning | Deep Neural Networks with PyTorch | Machine Learning | Big Data and Machine Learning |
-  Big Data Analysis with Scala and Spark | Essential Cloud Infrastructure | Reliable Cloud Infrastructure | Building Resilient Streaming Systems | Agile Development |
-  Structuring Machine Learning Projects | Building Data Science Teams |  Scalable Data Science. 
+- Neural Networks and Deep Learning (DeepLearning.AI)
+- Big Data Analysis with Scala and Spark (École Polytechnique Fédérale de Lausanne)
+- Big Data and Machine Learning (Google Cloud)
+- Machine Learning (Stanford University)
+- Essential Cloud Infrastructure (Google Cloud)
+- Reliable Cloud Infrastructure (Google Cloud)
+- Building Resilient Streaming Systems (Google Cloud)
+- Other courses: Microservices Fundamentals | Agile Development | Structuring Machine Learning Projects | Building Data Science Teams |  Scalable Data Science
 
 ## Blog posts
 - [Thoughts from a Generative AI Course](https://medium.com/misc-posts/thoughts-from-a-generative-ai-course-312209bc24c), Notes and Points Blog, July 11, 2023

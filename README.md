@@ -18,6 +18,7 @@
 - Other courses: Microservices Fundamentals | Agile Development | Structuring Machine Learning Projects | Building Data Science Teams |  Scalable Data Science
 
 ## Blog posts
+- [Accelerated Analytics and Stream Processing](https://medium.com/misc-posts/accelerated-analytics-and-stream-processing-dbccc519051b), Notes and Points Blog, September 26, 2023
 - [Thoughts from a Generative AI Course](https://medium.com/misc-posts/thoughts-from-a-generative-ai-course-312209bc24c), Notes and Points Blog, July 11, 2023
 - [Augmenting LLM Applications with Database Access](https://medium.com/misc-posts/augmenting-llm-applications-with-database-access-806d5ee6446c), Notes and Points Blog, July 5, 2023
 - [Adding Similarity Search](https://medium.com/misc-posts/mixing-search-similarity-ceafe7253c47), Notes and Points Blog, June 27, 2023

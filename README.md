@@ -46,9 +46,9 @@
   - [An Experiment with Similarity Search and Embeddings](https://github.com/neelp-git/embeddings-similarity/blob/main/similarity.ipynb)
   - [An Experiment with Embeddings, Vector Database, and Similarity Metrics (Part 2)](https://github.com/neelp-git/embeddings-similarity/blob/main/similarity2.ipynb)
 - Feature Store
-  - [Feature Store - Feature Engineering (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/simple-load-store.ipynb)
+  - [Feature Store - Feature Engineering (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/feature-store-feature-eng.ipynb)
   - [Feature Store - Model Training (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/feature-store-model-training.ipynb)
-  - [Feature Store - Model Serving (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/feature-store-model-training.ipynb)
+  - [Feature Store - Model Serving (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/feature-store-model-serving.ipynb)
 - Spark
   - [Simple Load and Store (Python)](https://github.com/neelp-git/interactive-notebooks/blob/main/notebooks/spark/simple-load-store.ipynb)
 - SQL Operations
